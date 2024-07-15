@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.onurerkantoros.simplebanking.BankAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-15T11:21:22" hostname="DESKTOP-R2MGCSG" time="0.027">
+  <properties/>
+  <testcase name="testAccountTransactions()" classname="com.onurerkantoros.simplebanking.BankAccountTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
